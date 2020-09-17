@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://massimiliano-mantione.github.io/massi/sitemap.xml
+Sitemap: https://massimiliano-mantione.github.io/massi/sitemap.xml
